@@ -1,7 +1,7 @@
 <?php
 //arithmetic php
 //Perform arithmetic operations abd assign the results to variables.
-
+echo "test";
 $d=date("H:i:s");
 echo $d;
 
